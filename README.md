@@ -42,7 +42,7 @@
 ![image](https://github.com/user-attachments/assets/2ecdcd48-6891-4ec7-979d-42e0b8b0299c)
 
 
-> 📁 Пример содержимого `.log`:
+## 📁 Пример содержимого `.log`:
 ![image](https://github.com/user-attachments/assets/8a7e850d-f8a7-4581-b726-7ab898c24b3a)
 
 
